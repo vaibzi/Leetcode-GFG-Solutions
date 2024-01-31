@@ -1,5 +1,7 @@
 //Medium
 //Topics -> Array, NEXT GREATER ELEMENT
+//Time Complexity -> O(n)
+//Space Complexity -> O(n)
 
 // Given an array of integers temperatures represents the daily temperatures, 
 
